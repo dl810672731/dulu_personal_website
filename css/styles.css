@@ -1,4 +1,4 @@
-@charset "gb2312";
+@charset "utf-8";
 /* CSS Document */
 *{ margin:0; padding:0}
 body{ font-family: Arial, Helvetica, sans-serif; color:#3F3E3C;  line-height: 1.5; font-size:12px}
@@ -62,13 +62,13 @@ header{width:980px;margin:0 auto;position:relative; z-index:1000; height:100px}
 
 .motto{ width:980px; margin:20px auto;overflow:hidden; height:70px}
 .motto p{ float:left; width:640px;line-height:1.9; }
-.motto p:first-letter { font-size:36px; float:left; color:#f60; padding:5px; font-family:"ºÚÌå";}
+.motto p:first-letter { font-size:36px; float:left; color:#f60; padding:5px; font-family:"ï¿½ï¿½ï¿½ï¿½";}
 .motto p b{ color:#000}
 .inbar{ float:right; width:300px; text-align:right}
 .inbar li{ display:inline}
 .inbar li img{ height:50px; border:#ccc 1px solid; padding:2px; margin-left:10px}
 .inbar li img:hover{ opacity:0.5}
-/* ÈýÀ¸²¼¾Ö */
+/* ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ */
 #container2{ background:#F7F7F7; overflow:hidden; border:#ccc 1px solid; border-left:0; border-right:0; padding:20px 0}
 .template{ -moz-column-count: 3;-moz-column-gap: 75px;-moz-column-rule: 2px dotted #CCC;-webkit-column-count: 3;-webkit-column-gap: 75px;-webkit-column-rule: 2px dotted #CCC;
 	column-count: 3;column-gap: 75px;column-rule: 2px dotted #CCC;-moz-hyphens: auto;-webkit-hyphens: auto;margin: 0 auto;width: 980px;}
@@ -81,7 +81,7 @@ header{width:980px;margin:0 auto;position:relative; z-index:1000; height:100px}
 .template h4 a b {color:#fff; background:#333; padding:2px 6px}
 .template h4 a:hover span { opacity: 1;}
 .template h4 a:hover b,h4 a:hover span {letter-spacing:0; text-decoration:none;}
-/* ¶à±³¾°Í¼Æ¬ */
+/* ï¿½à±³ï¿½ï¿½Í¼Æ¬ */
 .idea{ width:980px; margin:30px auto; text-align:center; background:url(../images/qleft.png) no-repeat left top, url(../images/qright.png) no-repeat right top ;}
 .idea p{ height:40px; padding:0 120px; font-size:14px}
 /* footer */
